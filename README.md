@@ -20,7 +20,6 @@ I enjoy turning ideas into functional, creative digital experiences through prog
 - 🎮 Building projects focused on **game development**
 - 🌱 Currently learning **advanced Java**
 - 🤝 Open to collaborating on **game development** and **web development**
-- 🚀 Currently working on **Zenith-Hub**, **Cookie Empire**, and **Pili-KArt**
 
 ## Tech Stack
 
